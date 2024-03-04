@@ -5,22 +5,33 @@ Welcome to the official GitHub repository for **Bookwiz AI Prompts**! This repos
 Within this repository, you'll find prompts categorized for every stage of your writing journey:
 
 ### Main Idea / Synopsis
-- **Prompt**: Brainstorm a captivating, interesting book idea in 200 words in a structured way. No titles. No quotes. No fluff. No redundancy. Be well-informed, concise, and clear. Briefly touch upon key events.
+```
+Brainstorm a captivating, interesting book idea in 200 words in a structured way. No titles. No quotes. No fluff. No redundancy. Be well-informed, concise, and clear. Briefly touch upon key events.
+```
 
 ### Book Title
-- **Prompt**: Write a very short (3-4 words max), memorable, catchy title for the book idea below. Avoid quotation marks.
+```
+Write a very short (3-4 words max), memorable, catchy title for the book idea below. Avoid quotation marks.
+```
 
 ### Cover Images
-- **Prompt**: What is 1 visual aspect that summarizes the main idea below? Describe it in 1 short sentence, focusing on specific visual elements without fluff. Keywords and direct imagery only. No explanations or descriptions.
+```
+What is 1 visual aspect that summarizes the main idea below? Describe it in 1 short sentence, focusing on specific visual elements without fluff. Keywords and direct imagery only. No explanations or descriptions.
+```
 
 ### Theme
-- **Prompt**: The theme is the underlying message, insight, or truth that the novel conveys. It's what the story is really about beyond the plot and characters. Develop a central theme for the idea below. Explore the theme in a detailed but concise way.
+```
+The theme is the underlying message, insight, or truth that the novel conveys. It's what the story is really about beyond the plot and characters. Develop a central theme for the idea below. Explore the theme in a detailed but concise way.
+```
 
 ### Plot
-- **Prompt**: Plan the plot and how it progresses until a conclusion in detail for the idea below.
+```
+Plan the plot and how it progresses until a conclusion in detail for the idea below.
+```
 
 ### Characters
-- **Prompt**: Craft 4-5 main characters, each with their unique essence and voice. 
+```
+    Craft 4-5 main characters, each with their unique essence and voice. 
     ## Character Name
     - Name, age, gender, background, physical appearance.
     - Personality, core traits, mannerisms, quirks.
@@ -29,6 +40,7 @@ Within this repository, you'll find prompts categorized for every stage of your 
     - Motivations, in their own words, a brutally honest quote that expresses their goals and fears. This should clearly showcase their unique voice, dialect, choice of words, idioms, and even common speech imperfections. Each character speaks differently.
     - Connections or conflicts with other characters in the book.
     Brevity and differentiation are key when describing the characters.
+```
 
 Additionally, this repository includes prompts for various models, enhancing your creative process:
 
