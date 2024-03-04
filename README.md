@@ -52,6 +52,19 @@ Additionally, this repository includes prompts for various models, enhancing you
 ## How to Use the Prompts ✍️
 These prompts are designed to be flexible and easily integrated into your writing process. You can use them directly on [Bookwiz.io](https://bookwiz.io) or through the ChatGPT store. Bookwiz leverages OpenAI's API, offering you unlimited usage with a subscription. You can also experiment with different models, including open-source and unrestricted options, to find the perfect fit for your writing style.
 
+## Maximize Your Results with AI 🚀
+
+Want better results from AI prompts? Here's how to make it work well for you:
+
+1. **Clear Instructions:** Tell the AI exactly what you want in simple terms.
+2. **Add Details:** More information helps the AI understand better.
+3. **Show What You Like:** If there's a way you want things done, show an example.
+4. **Step-by-Step:** Break down what you need into steps.
+5. **Use Examples:** Examples can guide the AI to give you what you're looking for.
+6. **How Long?:** Let the AI know if you want a short or long answer.
+
+For more tips on working with AI, check out this guide: [How to Get Better Results](https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results).
+
 ## Contribution and Feedback 👥
 We believe in the power of community and are always looking to improve. If you have suggestions for new prompts or feedback on existing ones, we'd love to hear from you. Your insights help us refine and expand our prompt collection to better serve writers like you.
 
