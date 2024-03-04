@@ -62,15 +62,24 @@ To dive into the world of Bookwiz and start using these prompts, create an accou
 Join our vibrant community of writers and creators! For support, discussions, and to share your experiences, check out our forum or join our Discord channel. Links can be found on our website.
 
 ## FAQs ❓
-For answers to commonly asked questions about using the prompts and navigating Bookwiz.io, visit our FAQs section on the website.
+For answers to commonly asked questions about using the prompts and navigating [Bookwiz.io](https://bookwiz.io), visit our FAQs section on the website.
 
 ## License 📜
-The prompts and any contributions to this repository are shared under a specific license. Please refer to the **LICENSE** file for more details.
+Bookwiz AI Prompt Repository is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. This license allows for free use, sharing, adaptation, and distribution of the prompts and materials, even commercially, provided that [Bookwiz.io](https://bookwiz.io) is appropriately credited.
+
+## How to Credit Bookwiz.io
+When using content from this repository, please credit as follows:
+
+"Contains material from Bookwiz AI Prompt Repository, provided by Bookwiz.io, licensed under CC BY 4.0."
+
+For more details about the CC BY 4.0 license and to read the full license text, visit Creative Commons website or see our LICENSE.md file.
+
+This licensing reflects our commitment to fostering creativity, collaboration, and innovation within the writing community.
 
 ## Acknowledgments 💖
 A huge thank you to everyone who has contributed to this repository and to the Bookwiz community. Your creativity and feedback make all the difference.
 
 ## Contact Information 📧
-For support, partnerships, or media inquiries, please contact us through the information provided on our website.
+For support, partnerships, media inquiries, or further information regarding the use of materials under the CC BY 4.0 license, please contact us through the information provided on our website.
 
 Embark on your writing journey with **Bookwiz AI Prompts** and let your creativity soar. Happy writing!
