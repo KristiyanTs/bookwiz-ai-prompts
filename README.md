@@ -64,6 +64,17 @@ Join our vibrant community of writers and creators! For support, discussions, an
 ## FAQs ❓
 For answers to commonly asked questions about using the prompts and navigating [Bookwiz.io](https://bookwiz.io), visit our FAQs section on the website.
 
+## Connect With Us 🖇️
+Ready to dive deeper into the Bookwiz universe? Reach out to us through your preferred channel:
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40bookwiz__io-blue)](https://twitter.com/bookwiz_io)
+[![TikTok](https://img.shields.io/badge/TikTok-@bookwiz-red)](https://www.tiktok.com/@bookwiz)
+[![Instagram](https://img.shields.io/badge/Instagram-%40bookwiz__io-orange)](https://www.instagram.com/bookwiz_io/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-purple)](https://discord.gg/xYrshKugvy)
+[![Email](https://img.shields.io/badge/Email-hello%40bookwiz.io-yellowgreen)](mailto:hello@bookwiz.io)
+[![Website](https://img.shields.io/badge/Website-Bookwiz.io-lightgrey)](https://bookwiz.io)
+
+
 ## License 📜
 Bookwiz AI Prompt Repository is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. This license allows for free use, sharing, adaptation, and distribution of the prompts and materials, even commercially, provided that [Bookwiz.io](https://bookwiz.io) is appropriately credited.
 
@@ -78,8 +89,4 @@ This licensing reflects our commitment to fostering creativity, collaboration, a
 
 ## Acknowledgments 💖
 A huge thank you to everyone who has contributed to this repository and to the Bookwiz community. Your creativity and feedback make all the difference.
-
-## Contact Information 📧
-For support, partnerships, media inquiries, or further information regarding the use of materials under the CC BY 4.0 license, please contact us through the information provided on our website.
-
 Embark on your writing journey with **Bookwiz AI Prompts** and let your creativity soar. Happy writing!
