@@ -2,19 +2,19 @@
 Welcome to the official GitHub repository for **Bookwiz AI Prompts**! This repository is a treasure trove for writers and creators, offering a wide array of prompts designed to jumpstart the writing process for novels, stories, and more. Whether you're crafting the next bestseller or exploring the depths of your imagination, these prompts are your gateway to creativity.
 
 ## Repository Contents 📁
-Within this repository, you'll find prompts categorized for every stage of your writing journey:
+Within this repository, you'll find prompts categorized for every stage of your writing journey. Click on the links below to access prompts for:
 
-### Main Idea / Synopsis
+- **[Main Idea / Synopsis](/text/synopsis.md)** - Jumpstart your writing with a compelling synopsis to guide your story.
 
-### Book Title
+- **[Book Title](/text/title.md)** - Find inspiration for captivating titles that grab attention.
 
-### Cover Images
+- **[Cover Images](/text/cover-image-description.md)** - Descriptions to spark your imagination for stunning cover designs.
 
-### Theme
+- **[Theme](/text/theme.md)** - Explore prompts to help you establish the underlying themes of your work.
 
-### Plot
+- **[Plot](/text/plot.md)** - Develop engaging storylines with these creative plot ideas.
 
-### Characters
+- **[Characters](/text/character.md)** - Create memorable characters with deep backgrounds and unique traits.
 
 
 Additionally, this repository includes prompts for various models, enhancing your creative process:
